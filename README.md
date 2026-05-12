@@ -1,1 +1,2 @@
 # odin-recipes
+I will be creating a website on the topic of recipes which will present recipes of various dishes using the skills I have learnt so far. This includes adding headings, paragraphs, lists, links and images. 
