@@ -1,0 +1,36 @@
+* {
+  box-sizing: borderbox;
+}
+
+h1 {
+  background-color: #f7dfc2;
+  text-align: center;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  padding: 20px 20px;
+  border-radius: 8px;
+  background-color: #f0f0f0;
+}
+
+h3 {
+  display: inline-block;
+  border-radius: 5px;
+  padding: 8px 8px;
+  background-color: #d4f3ff;
+}
+
+.recipe-description {
+  background-color: #faf9f6;
+  padding: 10px 15px;
+  border-radius: 5px;
+  box-shadow: 2px 4px 8px #ebebeb;
+}
+
+li {
+  padding: 5px;
+}
